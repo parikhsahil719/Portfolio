@@ -2,14 +2,16 @@ h2 {
     color:goldenrod;
     font-style:italic;
     font-size: 45px;
+    margin-left: 200px;
+}
+.credit {
+    font-style: italic;
+    color:seagreen;
+    margin-left: 200px;
 }
 div{
-    color:blue;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    border-color:red;
     border: width 5px;
-    border-style:solid;
-    background-color: aquamarine;
 }
 #haikyuu {
     width:650px;
@@ -52,4 +54,11 @@ ul {
     float: right;
     width: 300px;
     height: 200px;
+}
+p1 {
+    margin-left:200px;
+    color: goldenrod
+}
+.link {
+    text-align:center;
 }
